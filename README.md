@@ -5,7 +5,7 @@
  </p>
 <h3 align="center">A Front-End Student from Paraná, Brazil.</h3>
 
-<h3 align="center">📚 Portfolio: https://bessecat.github.io/</h3>
+<h3 align="center">📚 Portfolio (still in construction): https://bessecat.github.io/</h3>
 
 <p align="center">
 <h3 align="center">🔗 Connect with me:</h3>
