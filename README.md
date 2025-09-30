@@ -3,7 +3,7 @@
 <p align="center">
   <img widith="300" src="dev.png">
  </p>
-<h3 align="center">A Front-End Student from Paraná, Brazil.</h3>
+<h3 align="center">A ux designer from Paraná, Brazil.</h3>
 
 <h3 align="center">📚 Portfolio (still in construction): https://bessecat.github.io/</h3>
 
